@@ -13,6 +13,7 @@ let g:vtexts = [
 ]
 au ColorScheme * hi VText guifg=#ff0000
 ```
+![example](https://github.com/user-attachments/assets/05a4ce5a-781d-478c-918a-53e31d070296)
 
 ## Installation
 
